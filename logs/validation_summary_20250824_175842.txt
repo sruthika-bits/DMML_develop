@@ -1,0 +1,11 @@
+Validation Report for transactions_20250824_172956.csv
+Timestamp: 20250824_175842
+Validation Passed: False
+Total Records: 10
+Total Issues Found: 3
+==================================================
+
+ISSUES FOUND:
+1. CRITICAL: Essential column 'transaction_id' missing
+2. CRITICAL: Essential column 'customer_id' missing
+3. CRITICAL: Essential column 'amount' missing

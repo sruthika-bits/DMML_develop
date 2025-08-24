@@ -1,0 +1,8 @@
+2025-08-24 17:28:21,888 - INFO - Starting data ingestion process
+2025-08-24 17:28:24,702 - ERROR - Error ingesting from SQL: Cannot save file into a non-existent directory: '..\dmml_asisgnment\data\raw'
+2025-08-24 17:28:25,461 - ERROR - Error ingesting from API: Cannot save file into a non-existent directory: '..\dmml_asisgnment\data\raw'
+2025-08-24 17:28:25,461 - WARNING - Data ingestion completed with errors
+2025-08-24 17:29:54,867 - INFO - Starting data ingestion process
+2025-08-24 17:29:55,508 - INFO - Successfully ingested 29 records from SQL database
+2025-08-24 17:29:56,306 - INFO - Successfully ingested 10 records from API
+2025-08-24 17:29:56,310 - INFO - Data ingestion completed successfully

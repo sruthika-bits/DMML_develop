@@ -1,0 +1,11 @@
+2025-08-24 18:25:37,378 - INFO - Starting data transformation process
+2025-08-24 18:25:37,702 - INFO - Database schema created successfully
+2025-08-24 18:25:37,765 - ERROR - Error transforming data: 'customer_id'
+2025-08-24 18:25:37,765 - ERROR - Data transformation failed - no features generated
+2025-08-24 18:39:56,459 - INFO - Starting data transformation process
+2025-08-24 18:39:56,639 - INFO - Database schema created successfully
+2025-08-24 18:39:56,697 - WARNING - Transaction file missing required columns: ['customer_id', 'amount', 'transaction_date']. Skipping transaction features.
+2025-08-24 18:39:56,710 - INFO - Transformed data shape: (29, 7)
+2025-08-24 18:39:57,026 - INFO - Transformed data stored successfully. 29 records inserted.
+2025-08-24 18:39:57,041 - INFO - Transformation summary saved: C:\Users\mahendran.s\OneDrive\Documents\dmml_asisgnment\data\transformation_reports\transformation_summary_20250824_183957.csv
+2025-08-24 18:39:57,041 - INFO - Data transformation completed successfully

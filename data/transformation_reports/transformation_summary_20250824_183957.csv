@@ -1,0 +1,8 @@
+feature_name,data_type,null_count,unique_values,description
+customer_id,float64,0,29,Original feature
+tenure_months,float64,0,29,Generated feature
+total_spent,object,29,0,Generated feature
+transaction_count,object,29,0,Generated feature
+avg_transaction_value,object,29,0,Generated feature
+days_since_last_purchase,object,29,0,Generated feature
+churn,float64,0,2,Original feature

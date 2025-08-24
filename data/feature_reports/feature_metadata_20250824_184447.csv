@@ -1,0 +1,8 @@
+id,feature_name,description,data_type,source,created_at,updated_at
+5,avg_transaction_value,Average value per transaction,FLOAT,total_spent / transaction_count,2025-08-24 18:44:47,2025-08-24 18:44:47
+7,churn,"Customer churn status (0=no, 1=yes)",INT,original target variable,2025-08-24 18:44:47,2025-08-24 18:44:47
+1,customer_id,Unique customer identifier,VARCHAR,original data,2025-08-24 18:44:47,2025-08-24 18:44:47
+6,days_since_last_purchase,Days since last transaction,INT,current_date - last_transaction_date,2025-08-24 18:44:47,2025-08-24 18:44:47
+2,tenure_months,Customer tenure in months,FLOAT,calculated from join_date,2025-08-24 18:44:47,2025-08-24 18:44:47
+3,total_spent,Total amount spent by customer,FLOAT,transaction data aggregation,2025-08-24 18:44:47,2025-08-24 18:44:47
+4,transaction_count,Number of transactions,INT,transaction data count,2025-08-24 18:44:47,2025-08-24 18:44:47

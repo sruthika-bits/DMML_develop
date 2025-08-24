@@ -1,0 +1,17 @@
+2025-08-24 17:41:54,124 - INFO - Starting data validation process
+2025-08-24 17:42:19,207 - INFO - Starting data validation process
+2025-08-24 17:42:19,272 - ERROR - Error during validation: module 'great_expectations' has no attribute 'from_pandas'
+2025-08-24 17:42:19,331 - ERROR - Error during validation: module 'great_expectations' has no attribute 'from_pandas'
+2025-08-24 17:42:19,331 - INFO - Data validation process completed
+2025-08-24 17:55:31,032 - INFO - Starting data validation process
+2025-08-24 17:55:31,052 - ERROR - Error during validation: module 'great_expectations' has no attribute 'from_pandas'
+2025-08-24 17:55:31,056 - ERROR - Error during validation: module 'great_expectations' has no attribute 'from_pandas'
+2025-08-24 17:55:31,056 - INFO - Data validation process completed
+2025-08-24 17:58:42,894 - INFO - Starting data validation process
+2025-08-24 17:58:42,930 - ERROR - Error during validation: bad operand type for unary ~: 'float'
+2025-08-24 17:58:42,949 - INFO - Data validation process completed
+2025-08-24 18:17:44,045 - INFO - Starting data validation process
+2025-08-24 18:17:44,111 - ERROR - Error during validation: bad operand type for unary ~: 'float'
+2025-08-24 18:17:44,134 - INFO - Data validation process completed
+2025-08-24 18:17:47,872 - INFO - Starting data validation process
+2025-08-24 18:17:47,926 - INFO - Data validation process completed

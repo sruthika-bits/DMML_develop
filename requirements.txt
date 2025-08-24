@@ -1,0 +1,12 @@
+pandas
+numpy
+sqlalchemy
+mysql-connector-python
+requests
+scikit-learn
+matplotlib
+seaborn
+jupyter
+great-expectations
+apache-airflow
+python-dotenv

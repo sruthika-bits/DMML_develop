@@ -1,0 +1,30 @@
+customer_id,first_name,last_name,email,phone,city,join_date,churn
+1.0,John,Doe,john.doe@example.com,+1-202-555-0173,New York,2023-01-15,0.0
+2.0,Jane,Smith,jane.smith@example.com,+1-202-555-0188,Los Angeles,2023-02-20,0.0
+3.0,Alice,Brown,alice.brown@example.com,+1-202-555-0147,Chicago,2023-03-10,1.0
+4.0,Bob,Johnson,bob.johnson@example.com,+1-202-555-0134,Houston,2023-04-05,0.0
+5.0,Charlie,Williams,charlie.williams@example.com,+1-202-555-0199,Miami,2023-05-18,0.0
+6.0,Emma,Davis,emma.davis@example.com,+1-202-555-0177,Boston,2023-06-01,1.0
+7.0,Michael,Miller,michael.miller@example.com,+1-202-555-0163,Seattle,2023-07-09,0.0
+8.0,Olivia,Wilson,olivia.wilson@example.com,+1-202-555-0111,Denver,2023-08-25,0.0
+9.0,David,Moore,david.moore@example.com,+1-202-555-0123,Austin,2023-09-11,0.0
+10.0,Sophia,Taylor,sophia.taylor@example.com,+1-202-555-0149,Phoenix,2023-10-02,0.0
+11.0,Liam,Anderson,liam.anderson@example.com,+1-202-555-0171,Dallas,2023-11-20,1.0
+12.0,Isabella,Thomas,isabella.thomas@example.com,+1-202-555-0155,San Diego,2023-12-12,0.0
+13.0,Noah,Jackson,noah.jackson@example.com,+1-202-555-0191,San Francisco,2023-09-19,0.0
+14.0,Mia,White,mia.white@example.com,+1-202-555-0133,Las Vegas,2023-10-23,1.0
+15.0,James,Harris,james.harris@example.com,+1-202-555-0170,Atlanta,2023-07-29,0.0
+16.0,Ava,Martin,ava.martin@example.com,+1-202-555-0105,Orlando,2023-03-04,0.0
+17.0,Ethan,Thompson,ethan.thompson@example.com,+1-202-555-0195,Portland,2023-04-30,0.0
+18.0,Charlotte,Garcia,charlotte.garcia@example.com,+1-202-555-0156,San Jose,2023-05-15,1.0
+19.0,Mason,Martinez,mason.martinez@example.com,+1-202-555-0139,Columbus,2023-06-20,0.0
+20.0,Amelia,Robinson,amelia.robinson@example.com,+1-202-555-0180,Nashville,2023-07-07,0.0
+21.0,Lucas,Clark,lucas.clark@example.com,+1-202-555-0184,Charlotte,2023-08-14,0.0
+22.0,Harper,Rodriguez,harper.rodriguez@example.com,+1-202-555-0127,Kansas City,2023-09-25,1.0
+23.0,Elijah,Lewis,elijah.lewis@example.com,+1-202-555-0142,Detroit,2023-10-30,0.0
+24.0,Evelyn,Lee,evelyn.lee@example.com,+1-202-555-0158,Indianapolis,2023-11-03,0.0
+25.0,Benjamin,Walker,benjamin.walker@example.com,+1-202-555-0186,Cleveland,2023-11-29,0.0
+26.0,Abigail,Hall,abigail.hall@example.com,+1-202-555-0125,Pittsburgh,2023-12-08,0.0
+27.0,Chris,Allen,chris.allen@,+1-202-555-XXXX,UNKNOWN,2023-11-04,0.0
+28.0,Nancy,Young,Unknown,+1-202-555-0190,Chicago,2023-05-10,0.0
+29.0,Mark,King,mark.king@example.com,123,Miami,2022-01-01,0.0
